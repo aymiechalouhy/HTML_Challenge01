@@ -1,0 +1,22 @@
+.navbar {
+   background-color: rgb(124, 175, 204);
+   width:max-content;
+   font-weight: 900;
+   font-size: large;
+   margin-bottom: 2%;
+  }
+  .hh{
+color:black;
+  }
+  .hh:hover{
+      background-color: black;
+      color:rgb(124, 175, 204);
+  }
+  ul{
+      padding-left: 5rem;
+  }
+ .js:hover{
+      font-size: large;
+      color: rgb(14, 67, 165);
+      font-weight: bold;
+  }

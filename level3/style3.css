@@ -1,0 +1,67 @@
+body{
+  background-color: #212B2D;
+}
+  h4 {
+    float: left;
+    padding-top: 0%;
+    padding-left: 8.8%;
+    background-color: #333D3F;
+  }
+  
+  h4 a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+.row{
+  display: flex;
+  color: white;
+}
+.col1{
+  width:35%;
+}
+.th{
+  padding-left: 40px;
+}
+.col2{
+  width: 60%;
+}
+.line{
+    display: inline-block;
+    width: 100%;
+    border-top: 0.2px solid white;
+  }
+  .row2{
+    display: flex;
+    color: white;
+  }
+  .col01{
+    width:20%;
+    padding-left: 40px;
+  }
+  .col02{
+    width:20%;
+    padding-left: 10rem;
+  }
+  .col03{
+    width:20%;
+    padding-left: 6rem;
+  }
+  button{
+    background-color: #94A9AC;
+    height: 30px;
+    text-align: center;
+  }
+  .contact{
+    color: white;
+    font-weight: bold;
+    padding-bottom: 3%;
+  }
+  .bt{
+     width: 130px;
+  }
+  p{
+    color: white;
+    text-align: justify;
+  }
